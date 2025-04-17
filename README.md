@@ -36,5 +36,5 @@
 
 1. **Клонируйте репозиторий:**  
    ```bash
-   git clone https://github.com/ваш-username/pomodoro-task-planner.git
-   cd pomodoro-task-planner
+   git clone https://github.com/ваш-username/CiPI.git
+   cd CiPI
